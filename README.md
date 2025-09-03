@@ -56,7 +56,7 @@ These insights shaped the design decisions to prioritize **clarity, accessibilit
 
 ---
 
-## 🚀 Next Steps
+## 🚀 Roadmap (Nice-to-haves)
 - Improve filter intuitiveness with clearer icons and tooltips.  
 - Add onboarding tutorials to guide first-time users.  
 - Explore real integrations with UMN services and metro transit APIs.  
