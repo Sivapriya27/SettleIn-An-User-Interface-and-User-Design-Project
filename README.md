@@ -3,7 +3,7 @@
 🚀 **An Onboarding Platform for UMN International Graduate Students**  
 
 SettleIn is a UI/UX design project created to ease the transition of international graduate students into life at the University of Minnesota.  
-It focuses on challenges such as housing, groceries, social integration, and transportation — all within one unified platform.  
+It focuses on challenges such as housing, groceries, social integration, and transportation - all within one unified platform.  
 
 ---
 
