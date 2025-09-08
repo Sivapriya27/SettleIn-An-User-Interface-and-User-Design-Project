@@ -1,4 +1,4 @@
-# SettleIn – UI/UX Design Project  
+# SettleIn - UI/UX Design Project  
 
 🚀 **An Onboarding Platform for UMN International Graduate Students**  
 
