@@ -22,20 +22,20 @@ It focuses on challenges such as housing, groceries, social integration, and tra
 ---
 
 ## 🎯 Key Features
-- **Housing Search** – Filter apartments by location, budget, and ratings.  
-- **Grocery Finder** – Locate nearby stores with filters for distance, hours, and ratings.  
-- **Event Discovery** – Explore and register for UMN events directly in-app.  
-- **Social Connections** – Connect with peers, send requests, and chat.  
-- **Transit Support** – View bus routes and schedules to navigate Minneapolis with ease.  
+- **Housing Search** - Filter apartments by location, budget, and ratings.  
+- **Grocery Finder** - Locate nearby stores with filters for distance, hours, and ratings.  
+- **Event Discovery** - Explore and register for UMN events directly in-app.  
+- **Social Connections** - Connect with peers, send requests, and chat.  
+- **Transit Support** - View bus routes and schedules to navigate Minneapolis with ease.  
 
 ---
 
 ## 🧠 UX Research Insights
 Through user research and cognitive walkthroughs, we identified major pain points:  
-1. **Housing Stress** – Students struggled with fragmented sources for accommodation.  
-2. **Daily Tasks** – Grocery shopping was confusing and time-consuming.  
-3. **Social Isolation** – Students desired an easier way to connect with peers and seniors.  
-4. **Usability Gaps** – Filter buttons were unclear, scroll prompts were missing, and location permission recovery was confusing.  
+1. **Housing Stress** - Students struggled with fragmented sources for accommodation.  
+2. **Daily Tasks** - Grocery shopping was confusing and time-consuming.  
+3. **Social Isolation** - Students desired an easier way to connect with peers and seniors.  
+4. **Usability Gaps** - Filter buttons were unclear, scroll prompts were missing, and location permission recovery was confusing.  
 
 These insights shaped the design decisions to prioritize **clarity, accessibility, and community support**.  
 
